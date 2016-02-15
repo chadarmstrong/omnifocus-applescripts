@@ -1,13 +1,3 @@
-(*
-    This script creates a list of active actions and reports them in (reverse) order by context
-    
-    Report Format       
-        HEADER
-        BAR
-        PRESTRING context SEPARATOR task SEPARATOR deferred date (if exists,  MM-DD-YYYY)
-        ...
-*)
-
 property todayStr : "Today"
 property missingContextStr : "<empty>" -- string when context is missing
 property barStr : "--" -- BAR string after header
