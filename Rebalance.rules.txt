@@ -1,0 +1,32 @@
+- each day should consist of at most 2 reading tasks
+    Context: @book
+
+- if it?s past 10 am, then workout, running, shoulder, green smoothie, write 3 pages should be deferred one day
+    current date's hour > 10:
+        Project: Maintenance Name: work out
+        Project: Maintenance Name: run
+        Project: Maintenance Name: do shoulder PT exercises
+        Project: Supplements Name: make green smoothie (add Omega 3)
+        Project: Mind Name: write 3 pages
+
+- there should be at most 1 video task per day
+        Project: Videos
+
+- there should be at most 1 class per day
+        Folder: Classes / Skills Project: Tech
+
+- there should be at most 3 body exercises per day
+        Project: Maintenance
+
+
+- there should be 1 interview practice thing every 4 days (if there isn't any Interview Practice stuff today, set one for 4 days from now)
+        Project: Interview Practice
+
+- there should be 1 programming practice task every 3 days (if there isn't any Programming Practice stuff today, set one for 3 days from now)
+        Project: Practice
+
+- there should be 1 Max task per week (if there isn't any Max stuff today, set one for 7 days from now)
+        Folder: Relationship
+
+- there should be 2 fun video per week (if there isn't any fun video stuff today, set 1 for 3 days from now and 1 for 7 days from now)
+        Folder: Recreation / Video
